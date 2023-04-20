@@ -19,7 +19,11 @@ font-family: 'Source Sans Pro', sans-serif; */
   html {
     scroll-behavior: smooth;
   }
-  
+
+  html,body{
+    overflow-x: hidden;
+}
+
   a{
   text-decoration: none;
   display: contents;
