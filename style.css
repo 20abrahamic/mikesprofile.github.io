@@ -16,13 +16,16 @@
 font-family: 'Source Sans Pro', sans-serif; */
 
 
-  html {
+  /* html {
+    scroll-behavior: smooth;
+  } */
+
+  html, body {
+    overflow-x: hidden;
+    height: 100%;
     scroll-behavior: smooth;
   }
-
-  html,body{
-    overflow-x: hidden;
-}
+  
 
   a{
   text-decoration: none;
