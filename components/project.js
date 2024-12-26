@@ -58,16 +58,15 @@ const data = [
       },
   },
   {
-      title: "Music Recommendation",
-      description: "Uses machine learning to recommend music for user ",
-      image: "personalpage/phone.jpg",
-      link: "project6.html",
+      title: "Asteroids",
+      description: "Asteroids Arcade game built in python",
+      image: "personalpage/asteroids.jpg",
+      link: "https://github.com/20abrahamic/asteroids",
       projectStats: {
-        mySQL: 40,
         JavaScript: 10,
         HTML: 5,
         CSS: 5,
-        Python: 40,
+        Python: 80,
       },
   },
 ];
